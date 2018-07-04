@@ -1,8 +1,8 @@
-[ Team Members, Comma Separated ]
-[ App Name ]
-[ Brief Description (1 or 2 sentences) ]
-[ GitHub repository link ]
-[ Heroku/Deployment link ]
+[ Bennie Brown]
+[ Virtual_Life ]
+[ An app that will utilize neural networks, AI, machine learning and virual reality to solve common issues for every day people.  The app will use Amazon Cognito, Sumerian, C#, Tensorflow, and A* search algorithm ]
+[ https://github.com/brownbe21/Virtual_Life]
+
 
 -------------------------
 
